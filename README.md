@@ -2,9 +2,13 @@
 
 * 我是一名普通的中学生
 * 喜欢桌面小程序开发和EE
-* 会Python和一半的C
+* 会Python和一半的C，有时玩一玩Linux
 * 能用Arduino控制单片机，能画简单的PCB，会焊过孔元件（还没试过贴片）
 * 正在学另一半C，自学了一部分C#
+
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangshunhuai)](https://github.com/anuraghazra/github-readme-stats)
+
+
 * 我的项目概况：
   - 🔭 现在正在进行的项目：
     * [STM32-MP3-Player](https://github.com、yangshunhuai/STM32-MP3-Player)
