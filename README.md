@@ -1,9 +1,9 @@
 ## 你好 👋
 
 * 我是一名普通的中学生
-* 喜欢桌面小程序开发和EE
-* 会Python和一半的C，有时玩一玩Linux
-* 能用Arduino控制单片机，能画简单的PCB，会焊过孔元件（还没试过贴片）
+* 喜欢开发一些桌面小程序和嵌入式
+* 会Python和一半的C，有时玩Linux
+* 能用Arduino控制单片机，能画简单的PCB，会焊一部分元件
 * 正在学另一半C，自学了一部分C#
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangshunhuai)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,7 +43,10 @@
       批处理和VBScript简易恶意程序
     * [ChocoStore](https://github.com/yangshunhuai/ChocoStore)
       Chocolatey软件商店
-* 📫 
+* See also
+  - [改名竟然需要6个钢镚@bilibili](https://space.bilibili.com/551883534)
+  - [yangshunhuai@csdn.net](https://blog.csdn.net/michael_pipi)
+  - yangshunhuai@qq.com
 <!--
 **yangshunhuai/yangshunhuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
