@@ -11,16 +11,16 @@
 
 * 我的项目概况：
   - 🔭 现在正在进行的项目：
+    * [PELinux](https://github.com/yangshunhuai/PELinux)
+      以Linux为核心的PE
+  
+  - 🕊 鸽的项目：
     * [STM32-MP3-Player](https://github.com、yangshunhuai/STM32-MP3-Player)
       STM32 MP3音乐播放器
     * [StudentMainManager2](https://github.com/yangshunhuai/StudentMainManager2)
       第二代极域电子教室管理器（基于Visual C#）
-  
-  - 🕊 鸽的项目：
     * [mobile-safe](https://github.com/yangshunhuai/mobile-safe)
       防止写作业时玩手机的保险箱
-    * [PELinux](https://github.com/yangshunhuai/PELinux)
-      以Linux为核心的PE
     * [C4-Clock](https://github.com/yangshunhuai/C4-Clock)
       C4闹钟
     * [TomatoClock](https://github.com/yangshunhuai/TomatoClock)
