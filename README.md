@@ -11,6 +11,8 @@
 
 * 我的项目概况：
   - 🔭 现在正在进行的项目：
+    * [C4-Clock](https://github.com/yangshunhuai/C4-Clock)
+      C4闹钟
     * [PELinux](https://github.com/yangshunhuai/PELinux)
       以Linux为核心的PE
   
@@ -21,8 +23,6 @@
       第二代极域电子教室管理器（基于Visual C#）
     * [mobile-safe](https://github.com/yangshunhuai/mobile-safe)
       防止写作业时玩手机的保险箱
-    * [C4-Clock](https://github.com/yangshunhuai/C4-Clock)
-      C4闹钟
     * [TomatoClock](https://github.com/yangshunhuai/TomatoClock)
       STM32番茄钟
     
