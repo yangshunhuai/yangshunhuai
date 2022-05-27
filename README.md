@@ -2,9 +2,9 @@
 
 * 我是一名普通的中学生
 * 喜欢开发一些桌面小程序和嵌入式
-* 会Python和一半的C，有时玩Linux
+* 会Python和C，有时玩Linux
 * 能用Arduino控制单片机，能画简单的PCB，会焊一部分元件
-* 正在学另一半C，自学了一部分C#
+* 自学了一部分C#
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangshunhuai)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,8 +25,6 @@
       防止写作业时玩手机的保险箱
     * [TomatoClock](https://github.com/yangshunhuai/TomatoClock)
       STM32番茄钟
-    
-    最近项目咕咕，主要原因是最近我忽然发现C的指针我有一些地方不理解，所以正在读C语言的书，详细了解指针这一块，毕竟作为C语言的精华指针是一定要学好的~
   
   - 已完成的项目：
     * [StudentMainManager](https://github.com/yangshunhuai/StudentMainManager)
