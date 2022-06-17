@@ -15,6 +15,8 @@
       C4闹钟
     * [PELinux](https://github.com/yangshunhuai/PELinux)
       以Linux为核心的PE
+    * [tarost](https://github.com/yangshunhuai/tarost)
+      磁盘镜像工具，同时适配Windows和Linux
   
   - 🕊 鸽的项目：
     * [STM32-MP3-Player](https://github.com、yangshunhuai/STM32-MP3-Player)
