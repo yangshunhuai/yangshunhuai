@@ -1,6 +1,6 @@
 ## 你好 👋
 
-* 我是一名普通的中学生
+* 我是一名普通的学生
 * 喜欢开发一些桌面小程序和嵌入式
 * 会Python和C，有时玩Linux
 * 能用Arduino控制单片机，能画简单的PCB，会焊一部分元件
@@ -13,12 +13,12 @@
   - 🔭 现在正在进行的项目：
     * [C4-Clock](https://github.com/yangshunhuai/C4-Clock)
       C4闹钟
-    * [PELinux](https://github.com/yangshunhuai/PELinux)
-      以Linux为核心的PE
-    * [tarost](https://github.com/yangshunhuai/tarost)
-      磁盘镜像工具，同时适配Windows和Linux
   
   - 🕊 鸽的项目：
+    * [tarost](https://github.com/yangshunhuai/tarost)
+      磁盘镜像工具，同时适配Windows和Linux
+    * [PELinux](https://github.com/yangshunhuai/PELinux)
+      以Linux为核心的PE
     * [STM32-MP3-Player](https://github.com、yangshunhuai/STM32-MP3-Player)
       STM32 MP3音乐播放器
     * [StudentMainManager2](https://github.com/yangshunhuai/StudentMainManager2)
