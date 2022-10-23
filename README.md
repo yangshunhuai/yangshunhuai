@@ -9,12 +9,15 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangshunhuai)](https://github.com/anuraghazra/github-readme-stats)
 
 
-* 我的项目概况：
-  - 🔭 现在正在进行的项目：
+* 项目概况：
+  
+  最近一年学习压力会比较大，项目更新的频率会降低。
+
+  - 现在正在进行的项目：
     * [C4-Clock](https://github.com/yangshunhuai/C4-Clock)
       C4闹钟
   
-  - 🕊 鸽的项目：
+  - 暂停的项目：
     * [tarost](https://github.com/yangshunhuai/tarost)
       磁盘镜像工具，同时适配Windows和Linux
     * [PELinux](https://github.com/yangshunhuai/PELinux)
